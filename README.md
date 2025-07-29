@@ -20,7 +20,7 @@
 - **Vite**
 - **Tailwind CSS** or custom CSS
 - **Axios or Fetch API**
-- **Game API** (like RAWG or any other)
+- **Game API** (RAWG)
 
 ---
 
