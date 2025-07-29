@@ -26,6 +26,7 @@
 
 ## 📸 Screenshots
 
-> ![Uploading screencapture-localhost-5173-2025-07-29-15_37_52.png…]()
+> <img width="1920" height="1746" alt="screencapture-localhost-5173-2025-07-29-15_37_52" src="https://github.com/user-attachments/assets/c3195dbd-0161-4726-befd-e548e38bf7f3" />
+
 
 
